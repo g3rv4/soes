@@ -1,0 +1,11 @@
+Package: soes
+Type: Package
+Title: Datos de Stack Overflow en espanol
+Version: 0.1.0
+Author: Gervasio Marchand
+Maintainer: Gervasio Marchand <gmc@gmc.uy>
+Description: Datos del dump de Stack Exchange
+License: MIT (los datos estan bajo CC BY-SA 3.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1

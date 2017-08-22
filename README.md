@@ -6,7 +6,7 @@ Una forma fácil de usar el [data dump de Stack Exchange](https://archive.org/de
 Se puede instalar con `devtools`:
 
 ```
-devtools:install_github("g3rv4/soes")
+devtools::install_github("g3rv4/soes")
 ```
 
 Para acceder a las distintas tablas, basta con usar `data()`:
